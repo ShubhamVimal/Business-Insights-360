@@ -3,6 +3,14 @@
 This Power BI project provides a 360-degree view of business performance for **AtliQ Hardware**, a global company that sells computers and accessories through Retailers, Distributors, and Direct Sales. The dashboard was created to help different departments — Sales, Finance, Marketing, Supply Chain, and Executive Leadership — make better, data-driven decisions.
 
 ---
+## 🌐 Live Dashboard (Interactive)
+
+You can explore the live, interactive version of this Power BI dashboard hosted on the Power BI Service:
+
+🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiOTNmM2U2MDItZGQwMy00ZWYyLWI0MGMtNzZlNDY2MjgxODYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+*(Best viewed on desktop in full-screen mode)*
+
+---
 
 ## 🎯 Project Objective
 
