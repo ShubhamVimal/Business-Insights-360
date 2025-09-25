@@ -81,7 +81,7 @@ Each section of the dashboard provides insights tailored to specific business fu
 
 You can download and explore the full Power BI report using the link below:
 
-🔗 [.PBIX File on Google Drive (230 MB)](https://drive.google.com/file/d/16meO0vJhdrDrp4uGf0st6lhsawMJia5S/view?usp=sharing)
+🔗 [.PBIX File on Google Drive (230 MB)](https://drive.google.com/file/d/1zaGqZANgwiIIiiIv7pD_OXymV3E1mrSp/view?usp=drive_link)
 
 ---
 
