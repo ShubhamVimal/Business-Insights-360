@@ -68,11 +68,11 @@ Each section of the dashboard provides insights tailored to specific business fu
 | Section | Screenshot |
 |--------|-------------|
 | Home Overview | ![Home](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Home_View.PNG) |
-| Finance View | ![Finance](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Finance_View.PNG) |
+| Finance View | ![Finance](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Finance_View.png) |
 | Sales View | ![Sales](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Sales_View.PNG) |
 | Marketing View | ![Marketing](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Marketing_View.PNG) |
-| Supply Chain View | ![Supply Chain](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Supply_Chain_View.PNG) |
-| Executive Summary | ![Executive](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Executive_View.PNG) |
+| Supply Chain View | ![Supply Chain](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Supply_Chain_View.png) |
+| Executive Summary | ![Executive](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Executive_View.png) |
 | Product Analysis | ![Products](https://github.com/ShubhamVimal/Business-Insights-360/blob/main/Products_View.PNG) |
 
 ---
