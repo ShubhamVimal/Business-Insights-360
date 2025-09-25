@@ -7,7 +7,7 @@ This Power BI project provides a 360-degree view of business performance for **A
 
 You can explore the live, interactive version of this Power BI dashboard hosted on the Power BI Service:
 
-🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiMjdhYWY0OWUtMzZkNi00N2JmLThjZGQtNWJkMWNhMjQwZTFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiYTZjY2Y1OGUtODg4Yy00YTkyLWIyYmUtNzRmOTI1MmM2Y2I0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 *(Best viewed on desktop in full-screen mode)*
 
 ---
